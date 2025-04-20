@@ -7,6 +7,7 @@ we  created a dynamic property listing page using PHP, HTML, and MySQL that supp
 
 
 
+
 <?php
 include"inc/header.php";
 	
