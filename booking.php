@@ -3,6 +3,7 @@ created a PHP class named Booking that handles the core functionality of a prope
 This class connects to the database and manages property bookings between renters and owners, including creating, canceling, viewing, and updating bookings.
 
 
+
 <?php
 $filepath = realpath(dirname(__FILE__));
 include_once ($filepath.'/../lib/Database.php');
