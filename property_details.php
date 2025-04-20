@@ -3,6 +3,7 @@ we developed a dynamic property details page for a real estate listing platform 
 The goal is  to display complete information for a selected property  and allow users to contact the property owner directly
 
 
+
 <?php
 	include"inc/header.php";
 	
