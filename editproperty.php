@@ -2,6 +2,7 @@
 This PHP script allows authorized users (Admin or Property Manager) to update the details of an existing rental property listing
 
 
+
 <?php
 	include"inc/header.php";
 	
